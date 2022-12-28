@@ -8,8 +8,8 @@
 
 <ul><li><img width="10%" height="10%" src="https://user-images.githubusercontent.com/113012106/209868832-e7c99b49-e3ba-4be5-b8c0-7d589c5074ec.svg">
 </li>
-    <li>test</li>
-    <li>test</li>
+    <li><img width="10%" height="10%" src="https://user-images.githubusercontent.com/113012106/209868832-e7c99b49-e3ba-4be5-b8c0-7d589c5074ec.svg"></li>
+    <li><img width="10%" height="10%" src="https://user-images.githubusercontent.com/113012106/209868832-e7c99b49-e3ba-4be5-b8c0-7d589c5074ec.svg"></li>
 </ul>    
     
 
