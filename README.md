@@ -1,4 +1,6 @@
-<p>Op het moment bezig met een bootcamp voor junior full stack developer. Ik ben op dit moment bezig met het leren van html, css, javascript, react op het frontend gedeelte en met java en springboot op het backend gedeelte. Voor mijn eindopdracht moet ik een proof of concept van een zelfgemaakte applicatie opleveren. Ik ben nu met het laaste gedeelte van de bootcamp bezig met volledige focus op de eindopdracht.</p>
+
+## Hoi!
+<p>Ik en op het moment bezig met een bootcamp voor junior full stack developer en leer met html, css, javascript, react op het frontend gedeelte en met java en springboot op het backend gedeelte te werken. Voor mijn eindopdracht moet ik een proof of concept van een zelfgemaakte applicatie opleveren. Ik ben nu met het laaste gedeelte van de bootcamp bezig met volledige focus op de eindopdracht.</p>
 
 <p align="center">
     <img width="100%" height="10%" src="https://user-images.githubusercontent.com/113012106/208798968-58c72aad-80dd-4c17-ab7b-aa1fd003553c.png"> 
