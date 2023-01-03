@@ -3,7 +3,7 @@
 <p>Ik en op het moment bezig met een bootcamp voor junior full stack developer en leer met html, css, javascript, react op het frontend en met java en springboot op het backend gedeelte te werken. Voor mijn eindopdracht moet ik een proof of concept van een zelfgemaakte applicatie opleveren. Ik ben nu met het laaste gedeelte van de bootcamp bezig met volledige focus op de eindopdracht.</p> -->
 
 <p align="center">
-    <img width="100%" height="10%" src="(https://user-images.githubusercontent.com/113012106/210425940-4d1cd4fa-436f-4d3a-99f8-16471a8cf5b3.png"> 
+    <img width="100%" height="10%" src="https://user-images.githubusercontent.com/113012106/210425940-4d1cd4fa-436f-4d3a-99f8-16471a8cf5b3.png"> 
 </p>
 
 
