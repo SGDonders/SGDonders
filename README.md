@@ -6,12 +6,7 @@
     <img width="100%" height="10%" src="(https://user-images.githubusercontent.com/113012106/210425940-4d1cd4fa-436f-4d3a-99f8-16471a8cf5b3.png"> 
 </p>
 
-<!-- <ul><li><img width="10%" height="10%" src="https://user-images.githubusercontent.com/113012106/209868832-e7c99b49-e3ba-4be5-b8c0-7d589c5074ec.svg">
-</li>
-    <li><img width="10%" height="10%" src="https://user-images.githubusercontent.com/113012106/209868832-e7c99b49-e3ba-4be5-b8c0-7d589c5074ec.svg"></li>
-    <li><img width="10%" height="10%" src="https://user-images.githubusercontent.com/113012106/209868832-e7c99b49-e3ba-4be5-b8c0-7d589c5074ec.svg"></li>
-</ul>     -->
-    
+
 
 <!--
 **SGDonders/SGDonders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
